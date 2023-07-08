@@ -9,6 +9,7 @@ planned in every business process.
 Customer Name, Location of the customer, Status whether lead converted or not converted
 and description with business executive name which explain about basic conversation
 between client and business executive.
+
 Task-1: Determined the subject of customer engagement by evaluating their interest levels in our product, taking into account their current status.
 
 Task-2: Evaluated the likelihood of converting a lead by considering factors such as geographical location, customer status, and the type of business executive assigned to the lead.
