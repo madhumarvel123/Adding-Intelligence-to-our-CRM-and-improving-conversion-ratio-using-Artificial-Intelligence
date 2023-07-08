@@ -1,4 +1,4 @@
-# CRM_NLP_PROJECT
+![streamlit deployment-2](https://github.com/madhumarvel123/CRM_NLP_PROJECT/assets/122166780/43c42b38-aa7a-4148-ba30-b065040d30ab)# CRM_NLP_PROJECT
 # Project Title:
 Adding Intelligence to our CRM and improving conversion ratio using
 Artificial Intelligence
@@ -12,5 +12,4 @@ and description with business executive name which explain about basic conversat
 between client and business executive.
 # Deployment(streamlit)
 
-
-![streamlit deployment(CRM)](https://github.com/madhumarvel123/CRM_NLP_PROJECT/assets/122166780/2364003c-f634-4e59-8e5b-05fdcc9916ec)
+![streamlit deployment-1](https://github.com/madhumarvel123/CRM_NLP_PROJECT/assets/122166780/84f8130c-893d-4a40-96df-886447ec5578)
